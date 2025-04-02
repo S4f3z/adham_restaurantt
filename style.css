@@ -55,7 +55,7 @@ body {
 }
 
 .hero{
-    background: url("../img/adhambCk.jpg") no-repeat center center/cover fixed;
+    background: url("adhambCk.jpg") no-repeat center center/cover fixed;
     padding: 5em 0;
     color: #fff;
     text-align: center;
